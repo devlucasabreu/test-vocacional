@@ -1,5 +1,9 @@
 # 🧠 Quiz Interativo - Teste Vocacional
 
+<p align="center">
+  <a href="https://test-vocacional-profissoes.netlify.app/"><strong>Acessar o Projeto Online</strong></a>
+</p>
+
 ## 📋 Sobre o Projeto
 
 Este é um Quiz Interativo de Teste Vocacional desenvolvido puramente com **Vanilla JavaScript**. O projeto foi concebido para guiar usuários na descoberta de perfis profissionais através de uma série de perguntas dinâmicas.
